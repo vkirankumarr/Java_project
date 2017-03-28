@@ -3,5 +3,7 @@ public class DisplayEmployeeName{
    String s="SachinTendulkar";  
    System.out.println(s.substring(6));//Tendulkar  
    System.out.println(s.substring(0,6));//Sachin  
+   System.out.println("after creating new brach");
+   System.out.println("after creating new brach");
  }  
 } 
